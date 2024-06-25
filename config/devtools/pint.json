@@ -1,0 +1,20 @@
+{
+    "preset": "psr12",
+    "rules": {
+        "@PhpCsFixer": true,
+        "strict_comparison": true,
+        "no_unused_imports": true,
+        "global_namespace_import": {
+            "import_classes": false
+        },
+        "group_import": true,
+        "single_import_per_statement": false,
+        "multiline_whitespace_before_semicolons": false,
+        "concat_space": {
+            "spacing": "one"
+        }
+    },
+    "exclude": [
+        "routes"
+    ]
+}
