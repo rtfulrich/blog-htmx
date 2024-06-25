@@ -13,8 +13,5 @@
         "concat_space": {
             "spacing": "one"
         }
-    },
-    "exclude": [
-        "routes"
-    ]
+    }
 }
