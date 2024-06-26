@@ -1,5 +1,7 @@
 <?php
 
+declare(strict_types=1);
+
 use Monolog\Handler\{NullHandler, StreamHandler, SyslogUdpHandler};
 use Monolog\Processor\PsrLogMessageProcessor;
 

@@ -12,6 +12,7 @@
         "multiline_whitespace_before_semicolons": false,
         "concat_space": {
             "spacing": "one"
-        }
+        },
+        "declare_strict_types": true
     }
 }

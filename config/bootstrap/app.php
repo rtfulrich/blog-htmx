@@ -1,5 +1,7 @@
 <?php
 
+declare(strict_types=1);
+
 use Config\bootstrap\Application;
 use Illuminate\Foundation\Configuration\{Exceptions, Middleware};
 
