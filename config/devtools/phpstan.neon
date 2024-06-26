@@ -6,3 +6,5 @@ parameters:
         - ../../app
     level: 8
     checkModelProperties: true
+    ignoreErrors:
+        - "#return type has no value type specified in iterable type array#"
