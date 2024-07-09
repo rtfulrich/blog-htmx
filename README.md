@@ -1,4 +1,4 @@
-# Blog HTMX
+# Laravel Project Base Template
 
 ## Dependencies
 
